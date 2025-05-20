@@ -12,7 +12,7 @@ This is a static implementation of the Profile screen UI based on the CRED app d
 
 ## 📸 Screenshots
 
-[Profile](WhatsApp%20Image%202025-05-20%20at%2022.47.11_037038fa.jpg)
+<img src="WhatsApp%20Image%202025-05-20%20at%2022.47.11_037038fa.jpg" width="300"/>
 
 ## 🛠️ Tech Stack
 
