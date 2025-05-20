@@ -4,6 +4,14 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/backgroundBlack</item>
+        <item name="colorPrimaryDark">@color/backgroundBlack</item>
+        <item name="colorAccent">@color/accentGreen</item>
+        <item name="android:windowBackground">@color/backgroundBlack</item>
+        <item name="android:statusBarColor">@color/backgroundBlack</item>
+        <item name="android:navigationBarColor">@color/backgroundBlack</item>
+    </style>
 
     <style name="Theme.Profile" parent="Base.Theme.Profile" />
 </resources>
